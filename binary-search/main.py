@@ -1,4 +1,6 @@
 
+# This algorithm runs in logarithmic time
+
 def binary_search(arr, num):
   low = 0
   high = len(arr) - 1
